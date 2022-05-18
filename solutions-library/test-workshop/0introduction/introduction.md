@@ -2,11 +2,11 @@
 
 ## About this Workshop
 
-This workshop covers the basics needed to create and provision a PeopleSoft Environment using OCI.
+This is a Test XYZ workshop
 
-After completing this workshop you should have a better understanding of OCI, the ability to create and access a PeopleSoft environment that you created as well as view all of the components that were created during the lab to make that possible. After the completion of the lab, you will tear down, or destroy, all created components.
+xyxssssss
 
-Estimated Time: 2 hours
+Estimated Time: 4 hours
 
 Notes:
 
@@ -66,7 +66,7 @@ The following terms are commonly employed in PeopleSoft cloud operations and are
 **Tenancy** – When you sign up for Oracle Cloud Infrastructure, Oracle creates a tenancy for your company, which is a secure and isolated partition within Oracle Cloud Infrastructure where you can create, organize, and administer your cloud resources.
 
 ## Acknowledgements
-* **Authors** - Deepak Kumar M, Principal Cloud Architect
-* **Contributors** - Deepak Kumar M, Principal Cloud Architect
-* **Last Updated By/Date** - Deepak Kumar M, Principal Cloud Architect, April 2022
+* **Authors** - xxxx
+* **Contributors** - xxxxt
+* **Last Updated By/Date** - sxx
 
