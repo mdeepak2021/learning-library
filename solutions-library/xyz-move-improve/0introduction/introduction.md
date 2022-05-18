@@ -2,7 +2,7 @@
 
 ## About this Workshop
 
-this is a test workshop
+this is a test XYZ workshop
 
 After completing this workshop you should have a better understanding of OCI, the ability to create and access a PeopleSoft environment that you created as well as view all of the components that were created during the lab to make that possible. After the completion of the lab, you will tear down, or destroy, all created components.
 
